@@ -131,11 +131,10 @@ publications:
     #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #      bibendum fringilla a eu lectus.
     papers:
-      - title: LaneMate: Car Sensing System for the Deaf
+      - title: LaneMate - Car Sensing System for the Deaf
         link: "#"
         authors: Lee, S., Kang, Y., and Lee, Y.
         conference: CHI 2016
-
 
 
         #skills:
