@@ -78,24 +78,6 @@ education:
       university: Korea Science Academy of KAIST
       time: 2011.2 - 1014.2
 
-experiences:
-    - role: Ph. D. in IT Engineering
-      time: 2017.2 - present
-      company: Pohang University of Science of Technology (POSTECH)
-
-    - role: B. S. in IT Engineering
-      time: 2014.2 - 2017.2
-      company: Pohang University of Science of Technology (POSTECH)
-
-    - role: B. S.
-      time: 2014.7 - 2014.12
-      company: Stony Brook University, USA
-      details: |
-        Exchange student
-
-    - role: High School Student
-      time: 2011.2 - 1014.2
-      company: Korea Science Academy of KAIST
 
       #projects:
       #    title: Projects
