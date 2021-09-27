@@ -55,28 +55,28 @@ career-profile:
 
 
 experiences:
-    - degree: Ph. D.
-      university: POSTECH, South Korea
+    - role: Ph. D. Student
       time: 2017.2 - Present
+      company: POSTECH, South Korea
       details: |
         Dept. of IT Engineering
 
-    - degree: B. S.
-      university: POSTECH, South Korea
+    - role: B. S. Student
       time: 2014.2 - 2017.2
+      company: POSTECH, South Korea
       details: |
         Dept. of IT Engineering
         (Magma Cum Laude)
 
-    - degree: B. S.
-      university: Stony Brook University, USA
+    - role: B. S. Student
       time: 2014.7 - 2014.12
+      company: Stony Brook University, USA
       details: |
         Exchange student
 
-    - degree: High School
-      university: Korea Science Academy of KAIST
+    - role: High School Student
       time: 2011.2 - 1014.2
+      company: Korea Science Academy of KAIST
 
 
       #projects:
