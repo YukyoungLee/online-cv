@@ -118,6 +118,10 @@ publications:
     #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #      bibendum fringilla a eu lectus.
     papers:
+      - title: In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework
+        authors: Lee, Y., Kim, K., Lee, W., and Han, W.-S.
+        conference: SIGMOD 2024
+
       - title: LaneMate - Car Sensing System for the Deaf
         link: "#"
         authors: Lee, S., Kang, Y., and Lee, Y.
