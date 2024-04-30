@@ -28,6 +28,8 @@ sidebar:
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
     interests:
+      - item: Continuous subgraph matching
+      - item: Incremental cardinality estimation
       - item: Graph database
         link:
 
@@ -51,7 +53,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph. D. Student in the Dept. of IT Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
+      I am a Ph. D. Student in the Dept. of IT Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han. My research interests include continuous subgraph matching, incremental cardinality estimation, and query optimization.
 
 
 experiences:
