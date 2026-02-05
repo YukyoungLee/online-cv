@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yukyoung Lee 
-    tagline: Ph. D. Student in Database & Data Mining Lab
+    tagline: Postdoctoral Researcher at Data Systems Lab
     avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Ph. D. Student in the Dept. of IT Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han. My research interests include continuous subgraph matching, incremental cardinality estimation, and query optimization.
+      I am starting a Postdoctoral Researcher in Data Systems Lab at Pohang University of Science and Technology (POSTECH) since March 2026. I am doing research under the supervision of Professor Wook-Shin Han. My research interests include continuous subgraph matching, incremental cardinality estimation, and query optimization.
 
 
 experiences:
@@ -61,12 +61,19 @@ experiences:
       time: 2017
       company: Google Women Techmakers Scholarship
 
+    - role: Postdoctoral Researcher
+      time: 2026.3 -
+      company: POSTECH, South Korea
+      details: |
+	Data Systems Lab
 
     - role: Ph. D. Student
-      time: 2017.2 - Present
+      time: 2017.2 - 2026.2
       company: POSTECH, South Korea
       details: |
         Dept. of IT Engineering
+	Data Systems Lab
+	Advisor: Wook-Shin Han
 
     - role: B. S. Student
       time: 2014.2 - 2017.2
@@ -82,7 +89,7 @@ experiences:
         Exchange student
 
     - role: High School Student
-      time: 2011.2 - 1014.2
+      time: 2011.2 - 2014.2
       company: Korea Science Academy of KAIST
 
 
