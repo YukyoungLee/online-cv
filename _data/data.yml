@@ -121,7 +121,7 @@ publications:
     #      bibendum fringilla a eu lectus.
     papers:
       - title: "RAQUEL: Robust Validation of Machine Unlearning through Query Executions over Aligned Databases (Submitted)"
-        authors: Kang, H., Lee, J., <u>Lee, Y.<\u>, Park, S., and Han, W.-S.
+        authors: Kang, H., Lee, J., Lee, Y., Park, S., and Han, W.-S.
         conference: ICML 2026
 
       - title: In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework
