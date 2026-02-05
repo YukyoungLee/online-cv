@@ -120,13 +120,17 @@ publications:
     #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #      bibendum fringilla a eu lectus.
     papers:
+      - title: RAQUEL: Robust Validation of Machine Unlearning through Query Executions over Aligned Databases (Submitted)
+        authors: Kang, H., Lee, J., <u>Lee, Y.</u>, Park, S., and Han, W.-S.
+        conference: ICML 2026
+
       - title: In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework
-        authors: Lee, Y., Kim, K., Lee, W., and Han, W.-S.
+        authors: <u>Lee, Y.</u>, Kim, K., Lee, W., and Han, W.-S.
         conference: SIGMOD 2024
 
       - title: LaneMate - Car Sensing System for the Deaf
         link: "#"
-        authors: Lee, S., Kang, Y., and Lee, Y.
+        authors: Lee, S., Kang, Y., and <u>Lee, Y.<\u>
         conference: CHI 2016
 
 
