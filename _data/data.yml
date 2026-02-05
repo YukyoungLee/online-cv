@@ -113,10 +113,11 @@ education:
     time: 2011.02 - 2014.02
 
 awards:
-  title: Awards
+  title: Awards & Honors
   items:
-    - name: Google Women Techmakers Scholarship
-      year: 2017
+    - year: 2017
+      name: Google Women Techmakers Scholarship
+      organization: Google
 
       #projects:
       #    title: Projects
@@ -170,7 +171,9 @@ skills:
     title: Programming Skills
     toolset:
       - name: "Languages: C, C++, Python, SQL, Java"
+        level: 100%
       - name: "DBMS: PostgreSQL, Neo4j"
+        level: 100%
         #    title: Skills &amp; Proficiency
         #
         #    toolset:
