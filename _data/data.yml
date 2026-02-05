@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yukyoung Lee 
@@ -57,41 +57,66 @@ career-profile:
 
 
 experiences:
-    - role: Scholarship
-      time: 2017
-      company: Google Women Techmakers Scholarship
+    # - role: Scholarship
+    #   time: 2017
+    #   company: Google Women Techmakers Scholarship
 
     - role: Postdoctoral Researcher
-      time: 2026.3 - 2027.2
+      time: 2026.03 - 2027.02
       company: POSTECH, South Korea
       details: |
         Data Systems Lab
 
-    - role: Ph. D. Student
-      time: 2017.2 - 2026.2
-      company: POSTECH, South Korea
-      details: |
-        Dept. of IT Engineering
-        Data Systems Lab
-      Advisor: Wook-Shin Han
+    # - role: Ph. D. Student
+    #   time: 2017.2 - 2026.2
+    #   company: POSTECH, South Korea
+    #   details: |
+    #     Dept. of IT Engineering
+    #     Data Systems Lab
+    #   Advisor: Wook-Shin Han
 
-    - role: B. S. Student
-      time: 2014.2 - 2017.2
-      company: POSTECH, South Korea
-      details: |
-        Dept. of IT Engineering
-        (Magma Cum Laude)
+    # - role: B. S. Student
+    #   time: 2014.2 - 2017.2
+    #   company: POSTECH, South Korea
+    #   details: |
+    #     Dept. of IT Engineering
+    #     (Magma Cum Laude)
 
-    - role: B. S. Student
-      time: 2014.7 - 2014.12
-      company: Stony Brook University, USA
-      details: |
-        Exchange student
+    # - role: B. S. Student
+    #   time: 2014.7 - 2014.12
+    #   company: Stony Brook University, USA
+    #   details: |
+    #     Exchange student
 
-    - role: High School Student
-      time: 2011.2 - 2014.2
-      company: Korea Science Academy of KAIST
+    # - role: High School Student
+    #   time: 2011.2 - 2014.2
+    #   company: Korea Science Academy of KAIST
 
+education:
+  - degree: Ph.D. Student
+    university: POSTECH, South Korea
+    time: 2017.02 - 2026.02
+    details: |
+      Data Systems Lab
+      Advisor: Prof. Wook-Shin Han
+
+  - degree: B.S. in IT Engineering (Magna Cum Laude)
+    university: POSTECH, South Korea
+    time: 2014.02 - 2017.02
+
+  - degree: Exchange Student
+    university: Stony Brook University, USA
+    time: 2014.07 - 2014.12
+
+  - degree: High School
+    university: Korea Science Academy of KAIST, South Korea
+    time: 2011.02 - 2014.02
+
+awards:
+  title: Awards
+  items:
+    - name: Google Women Techmakers Scholarship
+      year: 2017
 
       #projects:
       #    title: Projects
@@ -128,20 +153,24 @@ publications:
     #      bibendum fringilla a eu lectus.
     papers:
       - title: "RAQUEL: Robust Validation of Machine Unlearning through Query Executions over Aligned Databases (Submitted)"
-        authors: Kang, H., Lee, J., Lee, Y., Park, S., and Han, W.-S.
+        authors: "Hyukkyu Kang, Jooyoung Lee, Yukyoung Lee, Sangdon Park, and Wook-Shin Han"
         conference: ICML 2026
 
       - title: In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework
-        authors: Lee, Y., Kim, K., Lee, W., and Han, W.-S.
+        authors: "Yukyoung Lee, Kyoungmin Kim, Wonseok Lee, and Wook-Shin Han"
         conference: SIGMOD 2024
 
       - title: LaneMate - Car Sensing System for the Deaf
         link: "#"
-        authors: Lee, S., Kang, Y., and Lee, Y.
+        authors: "Sangwook Lee, Yunho Kang, and Yukyoung Lee"
         conference: CHI 2016
 
 
-        #skills:
+skills:
+    title: Programming Skills
+    toolset:
+      - name: "Languages: C, C++, Python, SQL, Java"
+      - name: "DBMS: PostgreSQL, Neo4j"
         #    title: Skills &amp; Proficiency
         #
         #    toolset:
