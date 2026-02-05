@@ -1,5 +1,9 @@
 @media print
    {
+    * {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
     @page {
         size: A4;
     }
@@ -8,12 +12,11 @@
     }
 
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+        filter: none !important;
+        -webkit-filter: none !important;
     }
    .main-wrapper .time {
        float: right;
-        color: black !important;
         -webkit-print-color-adjust: exact; 
    }
     .sidebar-wrapper {
@@ -32,7 +35,6 @@
     }
 
     .skillset .level-bar-inner {
-       background-color: black !important;
        -webkit-print-color-adjust: exact; 
     }
 
