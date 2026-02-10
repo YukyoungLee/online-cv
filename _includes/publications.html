@@ -28,7 +28,8 @@
 
     {% comment %} underline my name in authors {% endcomment %}
     {% assign authors = publication.authors %}
-    {% assign authors = authors | replace: myname, '<span class="me">' | append: myname | append: '</span>' %}
+    {% assign highlighted = '<span class="me">' | append: myname | append: '</span>' %}
+    {% assign authors = authors | replace: myname, highlighted %}
 
     <div class="publication-authors">{{ authors | markdownify }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
